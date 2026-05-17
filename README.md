@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o Samuel Claudino 👋</h1>
+  <h1>Olá, eu sou o Samuel De Moura Claudino 👋</h1>
   <p>Estudante de Programação de Sistemas | Focado em Back-End Java & Banco de Dados</p>
 </div>
 
