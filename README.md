@@ -29,5 +29,5 @@ Estou na reta final da minha formação como programador de sistemas pelo progra
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelclaudino1994-crypto&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelclaudino1994-crypto&theme=monokai" alt="Estatísticas do Samuel" height="180px"/>
 </div>
